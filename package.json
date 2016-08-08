@@ -1,0 +1,25 @@
+{
+  "name": "get-all-github-repos",
+  "version": "1.0.0",
+  "description": "Get a list of all Github repos for a username.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/get-all-github-repos.git"
+  },
+  "keywords": [
+    "github",
+    "repository",
+    "repositories"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/get-all-github-repos/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/get-all-github-repos#readme",
+  "dependencies": {
+    "got": "^6.3.0",
+    "promise": "^7.1.1"
+  }
+}
