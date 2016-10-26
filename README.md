@@ -1,5 +1,7 @@
 # get-all-github-repos
 
+[![Build Status](https://travis-ci.org/saibotsivad/get-all-github-repos.svg?branch=master)](https://travis-ci.org/saibotsivad/get-all-github-repos)
+
 Get a list of all Github repos for a username.
 
 ## install
