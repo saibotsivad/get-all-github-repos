@@ -1,0 +1,12 @@
+[
+	"base64-url-cli",
+	"ftp-core",
+	"get-all-github-repos",
+	"hex2words",
+	"json-schema-to-markdown",
+	"noddity-wordpress-export",
+	"pipe-transform-cli",
+	"sermon_posts",
+	"smartstrap",
+	"wordpress-custom-post"
+]
