@@ -1,5 +1,7 @@
 # get-all-github-repos
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/get-all-github-repos.svg)](https://greenkeeper.io/)
+
 Get a list of all Github repos for a username.
 
 ## install
