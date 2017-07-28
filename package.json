@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/saibotsivad/get-all-github-repos#readme",
   "dependencies": {
-    "got": "^6.3.0",
-    "promise": "^7.1.1"
+    "got": "^7.1.0",
+    "promise": "^8.0.1"
   }
 }
